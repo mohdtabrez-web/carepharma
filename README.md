@@ -1,2 +1,0 @@
-# carepharma
-Pharmacist Here
